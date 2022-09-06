@@ -40,8 +40,9 @@ public final class Task1
 //Ввод данных в массив
     static int[] FillArray(int[] array)
     {
-        try (Scanner iScanner = new Scanner(System.in))
+        try
         {
+            Scanner iScanner = new Scanner(System.in);
             System.out.println("Заполните массив числами: ");
             for (int i = 0; i < array.length; i++)
             {
