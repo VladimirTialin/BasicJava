@@ -1,10 +1,11 @@
-package HomeWork2;
+package ru.geekbrains;
+
 import java.io.File;
 
 public class Task1 {
     public static void main(String[] args)
     {
-        File path=new File("c:\\Users\\Владимир\\Desktop");
+        File path=new File("/home/vladimir");
         ReaderFolder(path);
     }
 
