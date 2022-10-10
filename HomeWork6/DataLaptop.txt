@@ -1,0 +1,25 @@
+ASUS,Intel Core i5,8,256,Встроенная - Intel Iris Xe Graphics,15.6,MS Windows 11,серый,56990
+ASUS,Intel Core i3,8,256,Дискретная - NVIDIA GeForce MX130,14,Без ОС,синий,46690
+ASUS,Intel Core i5,8,512,Дискретная - NVIDIA GeForce RTX 3050,14,MS Windows 11,серебристый,93990
+ASUS,Intel Core i5,8,256,Встроенная - Intel Iris Xe Graphics,15.6,Без ОС,серебристый,57990
+ASUS,Intel Core i5,16,512,Дискретная - NVIDIA GeForce RTX 3050,16,MS Windows 11,серебристый,123990
+Lenovo,Intel Pentium Quad Core,4,1000,Встроенная - Intel UHD Graphics 605,14,MS Windows 10,серый,29900
+Lenovo,AMD Ryzen 5,12,512,Встроенная - AMD Radeon Graphics,15.6,без ОС,черный,56900
+Lenovo,Intel Celeron Dual Core,4,256,Встроенная - Intel UHD Graphics,15.6,без ОС,серый,29900
+Lenovo,Intel Core i5,16,1024,Встроенная - Intel Iris Xe Graphics,14,MS Windows 10,серый,96900
+Lenovo,AMD Ryzen 5,16,1024,AMD Radeon Graphics,14,MS Windows 11 Home,серый,94900
+Lenovo,AMD Ryzen 7,16,512,Дискретная - NVIDIA GeForce RTX 3060,16,MS Windows 11,серый,198900
+HP,AMD Ryzen 3,4,128,Встроенная - AMD Radeon Graphics,15.6,MS Windows 11 Home,серый,33990
+HP,Intel Core i5,8,512,Встроенная - Intel Iris Xe Graphics,15.6,MS Windows 11,серебристый,74990
+HP,Intel Core i5,8,256,Встроенная - Intel Iris Xe Graphics,15.6,MS Windows 10,серебристый,81990
+HP,AMD Ryzen 5,16,512,Дискретная - NVIDIA GeForce RTX 3050TI,16.1,MS Windows 11,серебристый,111990
+HP,Intel Core i5,16,1024,Дискретная - NVIDIA GeForce RTX 3060,16.1,без ОС,черный,147990
+HP,AMD Ryzen 9,16,1024,Дискретная - NVIDIA GeForce RTX 3070,16.1,MS Windows 11,серебристый,220990
+MSI,Intel Core i7,16,1024,Дискретная - NVIDIA GeForce RTX 3050TI,15.6,MS Windows 11,черный,233900
+MSI,Intel Core i7,16,1024,Дискретная - NVIDIA GeForce RTX 3070TI,17.3,без ОС,черный,275990
+MSI,Intel Core i9,16,1024,Дискретная - NVIDIA GeForce RTX 3070TI,17.3,без ОС,серый,264900
+MSI,Intel Core i5,8,512,Дискретная - NVIDIA GeForce RTX 3050Ti,15.6,без ОС,черный,89900
+MSI,Intel Core i7,16,1024,Дискретная - NVIDIA GeForce RTX 3080,15.6,без ОС,черный,204900
+Acer,AMD Ryzen 5,8,256,Встроенная - AMD Radeon Vega 8 Graphics,15.6,без ОС,черный,44900
+Honor,AMD Ryzen 5,16,512,Встроенная - AMD Radeon Graphics,16.1,MS Windows 11,серый,79900
+Huawei,AMD Ryzen 5,16,512,Встроенная - AMD Radeon Graphics,15.6,MS Windows 11,серебристый,64900
